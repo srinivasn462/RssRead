@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentTab</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+   <string name="title_activity_device">DeviceActivity</string>
+<string name="network_fragment_string">Network Fragment View</string>
+    <string name="device_fragment_string">Device Fragment View</string>
+     <string name="battery_fragment_string">Battery Fragment View</string>
+     <string name="img_alt_device">Device Image Attribute</string>
+       
+ <string name="str_battery_status">Battery Status</string>
+    <string name="str_battery_level">Battery Level</string>
+    <string name="str_temp_status">Temperature</string>
+    <string name="str_charge_status">Charge Status</string>
+</resources>
